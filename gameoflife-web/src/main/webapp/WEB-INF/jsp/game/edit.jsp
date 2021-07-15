@@ -5,7 +5,7 @@
 <%@page import="java.util.Properties" %>
 <html>
 <head>
-    <title>Rajkumar</title>
+    <title>SALADIRajkumar</title>
     <style type="text/css">
         h2 {
             color: blue;
