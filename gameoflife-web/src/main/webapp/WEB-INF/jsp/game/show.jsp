@@ -5,7 +5,7 @@
 <%@page import="java.util.Properties" %>
 <html>
 <head>
-    <title>The Game Of Life</title>
+    <title>The Game________________________of________________Life</title>
     <style type="text/css">
         h2 {
             color: blue;
